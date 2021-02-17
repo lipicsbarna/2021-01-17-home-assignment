@@ -44,4 +44,5 @@ You also can specify your custom date format:
 `Returns '2020-01-18 09:00'`
 
 
-
+Test coverage:
+![Coverage](image.png)
